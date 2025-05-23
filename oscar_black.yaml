@@ -1,0 +1,31 @@
+name: Oscar Black
+accent:
+  left: "#7c4af5"
+  right: "#eb766f"
+background:
+  left: "#0a0a0b"
+  right: "#19014c"
+background_image:
+  path: oscar/background/yoda.jpg
+  opacity: 35
+details: darker
+foreground: "#f1f1f1"
+terminal_colors:
+  bright:
+    black: "#5b5b5b"
+    blue: "#5b5dd5"
+    cyan: "#5ac8ff"
+    green: "#bbfa2e"
+    magenta: "#b394f2"
+    red: "#f7a39e"
+    white: "#ffffff"
+    yellow: "#ffe599"
+  normal:
+    black: "#121212"
+    blue: "#5b5dd5"
+    cyan: "#28b9ff"
+    green: "#8fce00"
+    magenta: "#914bd3"
+    red: "#f76e65"
+    white: "#f1f1f1"
+    yellow: "#fad432"
