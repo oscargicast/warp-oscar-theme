@@ -1,4 +1,4 @@
-name: Oscar Black
+name: Warp Oscar Theme Black
 accent:
   left: "#7c4af5"
   right: "#eb766f"
@@ -6,7 +6,7 @@ background:
   left: "#0a0a0b"
   right: "#19014c"
 background_image:
-  path: oscar/background/yoda.jpg
+  path: warp-oscar-theme/background/yoda.jpg
   opacity: 35
 details: darker
 foreground: "#f1f1f1"
